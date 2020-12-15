@@ -21,7 +21,7 @@
 ## ❤ What I'm into
 I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 
-### 🛠 What I can do
+## 🛠 What I can do
 > may be updated as I aspire to learn more
 
 ![Java](https://img.shields.io/badge/-Java-c2ad07?style=for-the-badge&logo=java&logoColor=fff)

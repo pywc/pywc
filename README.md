@@ -1,6 +1,4 @@
-![My Profile View Count](https://komarev.com/ghpvc/?username=pywc&style=flat-square&color=grey)  
-
-# 👨‍💻 Profile
+# 👨‍💻 Hi there!
 
 ----
 
@@ -10,7 +8,7 @@
 >        self.aka1 = "p4ulpwns"
 >        self.aka2 = "pywchung"
 > ```
-> Hi there! I'm Paul Chung in University of Wisconsin - Madison, who wants to be the best hacker in the world.
+> I'm Paul Chung in University of Wisconsin - Madison, who wants to be the best hacker in the world.
 >
 > I'm also known as `p4ulpwns` or `pywchung`.
 

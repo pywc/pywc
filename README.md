@@ -14,7 +14,7 @@
 
 <br>  
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=pywc&bg_color=202020&text_color=a0a0a0&title_color=ffffff)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=pywc&count_private=true&theme=algolia)
 
 ## ❤ What I'm into
 I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.

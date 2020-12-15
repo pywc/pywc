@@ -19,6 +19,7 @@
 >        self.aka2 = "pywchung"
 > ```
 > Hi there! I'm Paul Chung in University of Wisconsin - Madison, who wants to be the best hacker in the world.
+> I'm also known as `p4ulpwns` or `pywchung`.
 
 <br>  
 
@@ -29,6 +30,7 @@ I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 
 ### 🛠 What I can do
 > may be updated as I aspire to learn more
+
 ![Java](https://img.shields.io/badge/-Java-c2ad07?style=for-the-badge&logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-DC382D?style=for-the-badge&logo=C%2b%2b&logoColor=fff)

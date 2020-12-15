@@ -32,7 +32,7 @@ I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 ## 💬 Want some more?
 * **Blog**: [pywc.dev](https://pywc.dev)
 * **Vita**: [pywc.dev/vita](https://pywc.dev/vita)
-* **Mail**: [pywchung(at)icloud(dot)com](mailto:pywchung@icloud.com)
+* **Mail**: [pywchung@icloud.com](mailto:pywchung@icloud.com)
 
 ## ✨ I am now...
 > exhausted by quarantine and happy as finals are over

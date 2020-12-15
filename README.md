@@ -1,16 +1,45 @@
-### Hi there 👋
+![My Profile View Count](https://komarev.com/ghpvc/?username=pywc&style=flat-square&color=grey)  
+
+# 👨‍💻 Profile
 
 <!--
-**pywc/pywc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+  <img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%">*/
+  <div>
+    <a href="https://pywc.dev"><img src="https://static.nenw.dev/GithubWeb.png" alt="Page: pywc.dev" width="33.33%"></a><a href="mailto:pywchung@icloud.com"><img src="https://static.nenw.dev/GithubMail.png" alt="Mail: nenw@nenw.moe" width="33.33%"></a><a href="https://t.me/Khinenw"><img src="https://static.nenw.dev/GithubTelegram.png" alt="Telegram: @Khinenw" width="33.33%"></a>
+  </div>
+</div>
 -->
+----
+
+> ```python
+> class pywc: 
+>    def __init__(self): 
+>        self.aka1 = "p4ulpwns"
+>        self.aka2 = "pywchung"
+> ```
+> Hi there! I'm Paul Chung in University of Wisconsin - Madison, who wants to be the best hacker in the world.
+
+<br>  
+
+![My Github Status](https://github-readme-stats.vercel.app/api?username=pywc&bg_color=202020&text_color=a0a0a0&title_color=ffffff)
+
+## ❤ What I'm into
+I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
+
+### 🛠 What I can do
+> may be updated as I aspire to learn more
+![Java](https://img.shields.io/badge/-Java-c2ad07?style=for-the-badge&logo=java&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-DC382D?style=for-the-badge&logo=C%2b%2b&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-4FC08D?style=for-the-badge&logo=php&logoColor=fff)
+![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+## 💬 Want some more?
+* **Blog**: [pywc.dev](https://pywc.dev)
+* **Vita**: [pywc.dev/vita](https://pywc.dev/vita)
+* **Mail**: [pywchung@icloud.com](mailto:pywchung@icloud.com)
+
+## ✨ I am now...
+> exhausted by quarantine

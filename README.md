@@ -37,4 +37,4 @@ I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 * **Mail**: [pywchung(at)icloud(dot)com](mailto:pywchung@icloud.com)
 
 ## ✨ I am now...
-> exhausted by quarantine
+> exhausted by quarantine and happy as finals are over

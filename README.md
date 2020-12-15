@@ -30,7 +30,7 @@ I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
 ## 💬 Want some more?
-* **About Me** [pywc.dev/me](https://pywc.dev/me)
+* **About Me**: [pywc.dev/me](https://pywc.dev/me)
 * **Profile**: [pywc.dev/profile](https://pywc.dev/profile)
 * **Blog**: [pywc.dev](https://pywc.dev)
 * **Mail**: [pywchung@icloud.com](mailto:pywchung@icloud.com)

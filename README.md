@@ -2,14 +2,6 @@
 
 # 👨‍💻 Profile
 
-<!--
-<div>
-  <img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%">*/
-  <div>
-    <a href="https://pywc.dev"><img src="https://static.nenw.dev/GithubWeb.png" alt="Page: pywc.dev" width="33.33%"></a><a href="mailto:pywchung@icloud.com"><img src="https://static.nenw.dev/GithubMail.png" alt="Mail: nenw@nenw.moe" width="33.33%"></a><a href="https://t.me/Khinenw"><img src="https://static.nenw.dev/GithubTelegram.png" alt="Telegram: @Khinenw" width="33.33%"></a>
-  </div>
-</div>
--->
 ----
 
 > ```python
@@ -41,7 +33,7 @@ I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 ## 💬 Want some more?
 * **Blog**: [pywc.dev](https://pywc.dev)
 * **Vita**: [pywc.dev/vita](https://pywc.dev/vita)
-* **Mail**: [pywchung@icloud.com](mailto:pywchung@icloud.com)
+* **Mail**: [pywchung(at)icloud(dot)com](mailto:pywchung@icloud.com)
 
 ## ✨ I am now...
 > exhausted by quarantine

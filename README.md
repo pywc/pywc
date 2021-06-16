@@ -33,7 +33,7 @@ I'm mainly interested in Cybersecurity, Privacy, AI, Operating Systems, and Cryp
 * **About Me**: [pywc.dev/me](https://pywc.dev/me)
 * **CV**: [github.com/pywc/CV](https://github.com/pywc/CV/blob/main/CV_PaulChung.pdf)
 * **Blog**: [pywc.dev](https://pywc.dev)
-* **Mail**: pywchung[at]icloud[dot[com
+* **Mail**: pywchung[at]icloud[dot]com
 
 ## ✨ I am now...
 > hyped to get back on campus this fall

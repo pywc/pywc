@@ -3,21 +3,21 @@
 ----
 
 > ```python
-> class pywc: 
+> class Paul_Chung: 
 >    def __init__(self): 
 >        self.aka1 = "p4ulpwns"
 >        self.aka2 = "pywchung"
+>        self.aka3 = "pywc"
 > ```
-> I'm Paul Chung in University of Wisconsin - Madison, who wants to be the best hacker in the world.
->
-> I'm also known as `p4ulpwns` or `pywchung`.
+
+I'm Paul Chung, a CS undergrad at University of Wisconsin - Madison.
 
 <br>  
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=pywc&count_private=true&theme=algolia)
 
 ## ❤ What I'm into
-I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
+I'm mainly interested in Cybersecurity, Privacy, AI, Operating Systems, and Cryptography.
 
 ## 🛠 What I can do
 > may be updated as I aspire to learn more
@@ -31,9 +31,9 @@ I'm mainly interested in Cybersecurity, AI, Systems, and Web apps.
 
 ## 💬 Want some more?
 * **About Me**: [pywc.dev/me](https://pywc.dev/me)
-* **Profile**: [pywc.dev/profile](https://pywc.dev/profile)
+* **CV**: [https://github.com/pywc/CV/blob/main/CV_PaulChung.pdf](https://github.com/pywc/CV/blob/main/CV_PaulChung.pdf)
 * **Blog**: [pywc.dev](https://pywc.dev)
 * **Mail**: [pywchung@icloud.com](mailto:pywchung@icloud.com)
 
 ## ✨ I am now...
-> exhausted by quarantine and happy as finals are over
+> hyped to get back on campus this fall

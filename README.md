@@ -28,6 +28,8 @@ I'm mainly interested in Cybersecurity, Privacy, AI, Operating Systems, and Cryp
 ![PHP](https://img.shields.io/badge/-PHP-4FC08D?style=for-the-badge&logo=php&logoColor=fff)
 ![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-89CFF0?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-7393B3?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ## 💬 Want some more?
 * **About Me**: [pywc.dev/me](https://pywc.dev/me)

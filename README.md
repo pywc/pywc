@@ -38,4 +38,4 @@ I'm mainly interested in Cybersecurity, Privacy, AI, Operating Systems, and Cryp
 * **Mail**: pywchung[at]icloud[dot]com
 
 ## ✨ I am now...
-> A junior! Though I'm still technically a second-year.
+> at Pittsburgh, PA doing some real research.

@@ -17,7 +17,7 @@ I'm Paul Chung, a CS undergrad at University of Wisconsin - Madison.
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=pywc&count_private=true&theme=algolia)
 
 ## ❤ What I'm into
-I'm mainly interested in Cybersecurity, Privacy, AI, Operating Systems, and Cryptography.
+I'm mainly interested in Cybersecurity, Privacy, Networking, Adversarial ML, Blockchain, Operating Systems, and Cryptography.
 
 ## 🛠 What I can do
 > may be updated as I aspire to learn more

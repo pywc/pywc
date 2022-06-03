@@ -38,4 +38,4 @@ I'm mainly interested in Cybersecurity, Privacy, AI, Operating Systems, and Cryp
 * **Mail**: pywchung[at]icloud[dot]com
 
 ## ✨ I am now...
-> at Pittsburgh, PA doing some real research.
+> at Carnegie Mellon University, making new and fresh challenges.

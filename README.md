@@ -31,11 +31,11 @@ I'm mainly interested in Cybersecurity, Privacy, Networking, Adversarial ML, Blo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-89CFF0?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-7393B3?style=for-the-badge&logo=mysql&logoColor=fff)
 
-## 💬 Want some more?
+## 💬 Get in touch!
 * **About Me**: [pywc.dev/me](https://pywc.dev/me)
 * **CV**: [github.com/pywc/CV](https://github.com/pywc/CV/blob/main/CV_PaulChung.pdf)
 * **Blog**: [pywc.dev](https://pywc.dev)
-* **Mail**: pywchung[at]icloud[dot]com
+* **Mail**: pywchung[_at_]icloud[_dot_]com
 
 ## ✨ I am now...
 > at Carnegie Mellon University, making new and fresh challenges.

@@ -38,4 +38,4 @@ I'm mainly interested in Cybersecurity, Privacy, Networking, Adversarial ML, Blo
 * **Mail**: pywchung[_at_]icloud[_dot_]com
 
 ## ✨ I am now...
-> at Carnegie Mellon University, making new and fresh challenges.
+> at Carnegie Mellon University, making new and fresh challenges for picoCTF 2023.

@@ -20,8 +20,6 @@ I'm Paul Chung, a CS undergrad at University of Wisconsin - Madison.
 I'm mainly interested in Cybersecurity, Privacy, Networking, Adversarial ML, Blockchain, Operating Systems, and Cryptography.
 
 ## 🛠 What I can do
-> may be updated as I aspire to learn more
-
 ![Java](https://img.shields.io/badge/-Java-c2ad07?style=for-the-badge&logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-DC382D?style=for-the-badge&logo=C%2b%2b&logoColor=fff)

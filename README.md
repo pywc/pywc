@@ -30,10 +30,6 @@ I'm mainly interested in Cybersecurity, Privacy, Networking, Adversarial ML, Blo
 ![MySQL](https://img.shields.io/badge/-MySQL-7393B3?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ## 💬 Get in touch!
-* **About Me**: [pywc.dev/me](https://pywc.dev/me)
-* **CV**: [github.com/pywc/CV](https://github.com/pywc/CV/blob/main/CV_PaulChung.pdf)
-* **Blog**: [pywc.dev](https://pywc.dev)
-* **Mail**: pywchung[_at_]icloud[_dot_]com
-
-## ✨ I am now...
-> at Carnegie Mellon University, making new and fresh challenges for picoCTF 2023.
+* **About Me**: [pywc.dev](https://pywc.dev)
+* **CV**: [pywc.dev/cv](https://pywc.dev/cv)
+* **Mail**: paul.chung (at) wisc.edu

@@ -30,6 +30,6 @@ I'm mainly interested in Security, Privacy, Networking, Machine Learning, Blockc
 ![MySQL](https://img.shields.io/badge/-MySQL-7393B3?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ## 💬 Get in touch!
-* **About Me**: [pywc.dev](https://pywc.dev)
-* **CV**: [pywc.dev/cv](https://pywc.dev/cv)
+* **About Me**: [paulchu.ng](https://paulchu.ng)
+* **CV**: [paulchu.ng/cv](https://paulchu.ng/CV_PaulChung.pdf)
 * **Mail**: me (at) pywc.dev
